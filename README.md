@@ -1,4 +1,6 @@
 # Estudo-Zend_certifica-o
+![zend](https://user-images.githubusercontent.com/3485511/139484487-0a031e5e-352f-4fc5-9f22-d16425cc79e5.PNG)
+
 #What Will You Learn in PHP Fundamentals I?
 
 PHP Fundamentals I provides an overview of the PHP language, main concepts, and best practices, so you can:
