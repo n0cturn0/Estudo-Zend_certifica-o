@@ -90,6 +90,7 @@ print_r($diff);
 		
 		
 		array_diff -> Percorre array buscando a diferença entre elas
+		array_diff_assoc Percorre o array buscando a diferença por meio do seu indice
 		
 
 */
